@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867173794606",
+    "project_id": "flighttrackerflutter",
+    "storage_bucket": "flighttrackerflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867173794606:android:a95158cbb09b2b3690b0bf",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXvZvrzavpEd58XHDag1ZJDTk6UIQ0Jh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
